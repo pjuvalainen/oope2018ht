@@ -7,7 +7,7 @@ Folders fi/uta/csjola/oope/lista and apulaiset were provided by course teacher J
 
 # Interpreter commands
 
-- add, add a new thread to the area.
+- add, adds a new thread to the area.
 
 - catalog, lists area threads.
 
